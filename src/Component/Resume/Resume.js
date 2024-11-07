@@ -52,7 +52,7 @@ const Resume = () => {
           </div>
           <div className="resumeImg_wrapper_2">
             <img className="resumeImg_2" src={resume_img} alt="resume" />
-            <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1hZlGwr1wFsdS2XBLg86muzZ75BYlIw1e/view?usp=sharing">
+            <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1MNnLjTM8ZD1c6t0vXjEj6xJ59lkIY5tq/view?usp=sharing">
               <div className="open-button">
                 Open
               </div>
