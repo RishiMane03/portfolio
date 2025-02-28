@@ -70,7 +70,7 @@ const Creative = () => {
           <span>Creative</span>
         </div>
         <div className="frontend_txt">
-          <span>Frontend</span>
+          <span>MERN</span>
         </div>
         <div className="designer_txt">
           <span>Developer</span>
