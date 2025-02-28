@@ -39,12 +39,12 @@ const FrontBody = () => {
         <div className="content_bg">
           <span className="title">
             <h1>
-              FRONT <span id="minus"> </span> END
+              MERN <span id="minus"> </span> STACK
             </h1>
             <h4>DEVELOPER</h4>
             <div className="paragraph">
               <p>
-                I'm a Front-End Web Developer who transforms designs into
+                I'm a MERN Stack Web Developer who transforms designs into
                 seamless, interactive experiences. I build stunning, responsive
                 websites that captivate users and drive engagement.
               </p>
